@@ -1,1 +1,1 @@
-this is README ver.2
+ttthis is README
